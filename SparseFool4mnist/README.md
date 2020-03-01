@@ -28,4 +28,6 @@ Contains code to test transferability (more in the report)
 Jupyter notebook checkpoint that contains instructions (note that it might not work on all platforms)
 
 ## Instructions
-Use the jupyter checkpoint (.ipynb) for instructions
+- install jupyter (with pip : pip install jupyter)
+- Start a jupyter session : run jupyter notebook on command line
+- Use the jupyter checkpoint (.ipynb) for instructions
