@@ -1,0 +1,702 @@
+9_4.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+6_6.jpg
+Number of loops:  1
+True labels:  6
+After adding noise, classified as:  8
+Num_pixel_modified:  23
+
+
+7_8.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+7_4.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+1_1.jpg
+Number of loops:  13
+True labels:  1
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+7_9.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+2_1.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  2
+Num_pixel_modified:  23
+
+
+0_2.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+8_6.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+8_1.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+2_8.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  7
+Num_pixel_modified:  21
+
+
+0_0.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+4_8.jpg
+Number of loops:  1
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  12
+
+
+5_5.jpg
+Number of loops:  50
+True labels:  5
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+1_8.jpg
+Number of loops:  1
+True labels:  1
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+7_5.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+9_5.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+2_9.jpg
+Number of loops:  50
+True labels:  2
+After adding noise, classified as:  2
+Num_pixel_modified:  26
+
+
+2_3.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+6_8.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+9_9.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  4
+Num_pixel_modified:  20
+
+
+3_1.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+6_9.jpg
+Number of loops:  1
+True labels:  6
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+4_9.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+0_6.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+2_6.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+3_0.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+6_3.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+9_2.jpg
+Number of loops:  2
+True labels:  9
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+4_7.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+0_7.jpg
+Number of loops:  3
+True labels:  0
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+0_1.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+3_9.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+1_4.jpg
+Number of loops:  2
+True labels:  1
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+4_4.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+3_5.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+5_7.jpg
+Number of loops:  50
+True labels:  5
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+6_5.jpg
+Number of loops:  3
+True labels:  6
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+2_2.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+8_3.jpg
+Number of loops:  1
+True labels:  8
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+7_1.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+0_9.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+5_6.jpg
+Number of loops:  1
+True labels:  5
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+0_3.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+5_0.jpg
+Number of loops:  1
+True labels:  5
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+0_5.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+2_4.jpg
+Number of loops:  50
+True labels:  2
+After adding noise, classified as:  2
+Num_pixel_modified:  26
+
+
+3_6.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+4_1.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+6_1.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+5_4.jpg
+Number of loops:  50
+True labels:  5
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+1_7.jpg
+Number of loops:  1
+True labels:  1
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+3_8.jpg
+Number of loops:  1
+True labels:  3
+After adding noise, classified as:  2
+Num_pixel_modified:  26
+
+
+2_5.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+8_5.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+8_9.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+1_9.jpg
+Number of loops:  50
+True labels:  1
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+2_0.jpg
+Number of loops:  50
+True labels:  2
+After adding noise, classified as:  2
+Num_pixel_modified:  26
+
+
+1_2.jpg
+Number of loops:  50
+True labels:  1
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+5_8.jpg
+Number of loops:  50
+True labels:  5
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+7_2.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+3_4.jpg
+Number of loops:  50
+True labels:  3
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+1_6.jpg
+Number of loops:  50
+True labels:  1
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+4_6.jpg
+Number of loops:  1
+True labels:  4
+After adding noise, classified as:  9
+Num_pixel_modified:  26
+
+
+8_2.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+3_7.jpg
+Number of loops:  1
+True labels:  3
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+4_0.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+4_5.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+7_3.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+4_2.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+6_0.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+8_0.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+9_0.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+9_1.jpg
+Number of loops:  50
+True labels:  9
+After adding noise, classified as:  9
+Num_pixel_modified:  26
+
+
+9_8.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+8_7.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+5_1.jpg
+Number of loops:  1
+True labels:  5
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+5_9.jpg
+Number of loops:  1
+True labels:  5
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+0_8.jpg
+Number of loops:  50
+True labels:  0
+After adding noise, classified as:  0
+Num_pixel_modified:  26
+
+
+6_4.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+1_5.jpg
+Number of loops:  2
+True labels:  1
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+9_7.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+3_2.jpg
+Number of loops:  1
+True labels:  3
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+4_3.jpg
+Number of loops:  50
+True labels:  4
+After adding noise, classified as:  4
+Num_pixel_modified:  26
+
+
+9_3.jpg
+Number of loops:  1
+True labels:  9
+After adding noise, classified as:  7
+Num_pixel_modified:  24
+
+
+6_2.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+8_8.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+7_7.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+7_6.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+9_6.jpg
+Number of loops:  4
+True labels:  9
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+0_4.jpg
+Number of loops:  1
+True labels:  0
+After adding noise, classified as:  2
+Num_pixel_modified:  26
+
+
+7_0.jpg
+Number of loops:  50
+True labels:  7
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+1_0.jpg
+Number of loops:  50
+True labels:  1
+After adding noise, classified as:  1
+Num_pixel_modified:  26
+
+
+5_3.jpg
+Number of loops:  6
+True labels:  5
+After adding noise, classified as:  3
+Num_pixel_modified:  26
+
+
+3_3.jpg
+Number of loops:  1
+True labels:  3
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+5_2.jpg
+Number of loops:  50
+True labels:  5
+After adding noise, classified as:  5
+Num_pixel_modified:  26
+
+
+6_7.jpg
+Number of loops:  50
+True labels:  6
+After adding noise, classified as:  6
+Num_pixel_modified:  26
+
+
+1_3.jpg
+Number of loops:  3
+True labels:  1
+After adding noise, classified as:  7
+Num_pixel_modified:  26
+
+
+8_4.jpg
+Number of loops:  50
+True labels:  8
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+2_7.jpg
+Number of loops:  1
+True labels:  2
+After adding noise, classified as:  8
+Num_pixel_modified:  26
+
+
+Accuracy of Network after attack: 63 %
+Average number of pixel modified :  25.67
