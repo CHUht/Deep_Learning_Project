@@ -21,7 +21,7 @@ Contains code for training the model on MNIST
 ### Sparsefool_test.py
 Contains code to test sparsefool on the model trained (more explanation in the report)
 
-### trainsferabilityTest.py
+### transferabilityTest.py
 Contains code to test transferability (more in the report)
 
 ### sparsefool_mnist.ipynb
