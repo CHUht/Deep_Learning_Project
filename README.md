@@ -1,4 +1,4 @@
-# SparseFool
+# Deep_Learning_Project
 This repository contains the modules used for the deep learning project of CentraleSupélec
 
 ## Requirements
