@@ -20,7 +20,7 @@ A simple demo that computes the sparse adversarial perturbation of a test image.
 Utils function of Sparse fool method
 
 ### Grad-CAM/
-Jupiter notebook of Grad-CAM analysis and some demo data
+Jupiter notebook of Grad-CAM analysis and some demo data, the demo model is too large to upload(500MB).
 
 
 ### data/
