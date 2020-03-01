@@ -24,5 +24,8 @@ Contains code to test sparsefool on the model trained (more explanation in the r
 ### trainsferabilityTest.py
 Contains code to test transferability (more in the report)
 
+### sparsefool_mnist.ipynb
+Jupyter notebook checkpoint that contains instructions (note that it might not work on all platforms)
+
 ## Instructions
 Use the jupyter checkpoint (.ipynb) for instructions
